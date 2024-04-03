@@ -500,11 +500,11 @@ footer ul li a {
     margin-bottom:30px;
     }
     .swiper-wrapper {
-        height: 40vh;
+        height: 80vh;
     }
     .banner-content {
-        height: 35vh;
-        background-size: auto 290px;
+        height: 80vh;
+        background-size: auto 890px;
     }
 }
     
